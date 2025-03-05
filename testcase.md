@@ -1,9 +1,9 @@
 # Test Case: Redmine Tool Installation & PHP Script Interaction
 
-**Submitted By**: [vipin sir]  
-**Submitted To**: [ujjwal tyagi]  
+**Submitted By**: [Your Name]  
+**Submitted To**: [Reviewer Name]  
 **Test Case Version**: <Version>  
-**Reviewer Name**: [ujjwal]
+**Reviewer Name**: [Reviewer Name]
 
 ## Goal
 The goal of this project is to install the Redmine tool using Podman, run it on port 8080, create a PHP script running on port 3000, and ensure that changes made in the PHP script are reflected in Redmine.
